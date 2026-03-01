@@ -1,3 +1,7 @@
+-- Last Game Info.
+--Loadout("Cowboy", "Mercenary Base", "Ranger", "DJ Booth", "Accelerator")
+--Mode("Fallen")
+--GameInfo("Summer Castle", {})
 place(10.320, 0.971, 25.129, "Electroshocker", 375)
 upgrade(10.320, 2.321, 25.129, 200)
 place(7.315, 0.967, 25.176, "Electroshocker", 375)
